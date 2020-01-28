@@ -1,0 +1,11 @@
+C:\Users\Enes\source\repos\SIS\SIS.MVC\bin\Debug\netstandard2.1\SIS.MVC.deps.json
+C:\Users\Enes\source\repos\SIS\SIS.MVC\bin\Debug\netstandard2.1\SIS.MVC.dll
+C:\Users\Enes\source\repos\SIS\SIS.MVC\bin\Debug\netstandard2.1\SIS.MVC.pdb
+C:\Users\Enes\source\repos\SIS\SIS.MVC\bin\Debug\netstandard2.1\SIS.HTTP.dll
+C:\Users\Enes\source\repos\SIS\SIS.MVC\bin\Debug\netstandard2.1\SIS.HTTP.pdb
+C:\Users\Enes\source\repos\SIS\SIS.MVC\obj\Debug\netstandard2.1\SIS.MVC.csprojAssemblyReference.cache
+C:\Users\Enes\source\repos\SIS\SIS.MVC\obj\Debug\netstandard2.1\SIS.MVC.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\SIS\SIS.MVC\obj\Debug\netstandard2.1\SIS.MVC.AssemblyInfo.cs
+C:\Users\Enes\source\repos\SIS\SIS.MVC\obj\Debug\netstandard2.1\SIS.MVC.csproj.CopyComplete
+C:\Users\Enes\source\repos\SIS\SIS.MVC\obj\Debug\netstandard2.1\SIS.MVC.dll
+C:\Users\Enes\source\repos\SIS\SIS.MVC\obj\Debug\netstandard2.1\SIS.MVC.pdb

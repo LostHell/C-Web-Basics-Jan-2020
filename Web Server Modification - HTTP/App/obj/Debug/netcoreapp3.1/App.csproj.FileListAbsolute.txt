@@ -1,0 +1,16 @@
+C:\Users\Enes\source\repos\SIS\App\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+C:\Users\Enes\source\repos\SIS\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\SIS\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+C:\Users\Enes\source\repos\SIS\App\bin\Debug\netcoreapp3.1\App.exe
+C:\Users\Enes\source\repos\SIS\App\bin\Debug\netcoreapp3.1\App.deps.json
+C:\Users\Enes\source\repos\SIS\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+C:\Users\Enes\source\repos\SIS\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\SIS\App\bin\Debug\netcoreapp3.1\App.dll
+C:\Users\Enes\source\repos\SIS\App\bin\Debug\netcoreapp3.1\App.pdb
+C:\Users\Enes\source\repos\SIS\App\bin\Debug\netcoreapp3.1\SIS.HTTP.dll
+C:\Users\Enes\source\repos\SIS\App\bin\Debug\netcoreapp3.1\SIS.MVC.dll
+C:\Users\Enes\source\repos\SIS\App\bin\Debug\netcoreapp3.1\SIS.MVC.pdb
+C:\Users\Enes\source\repos\SIS\App\bin\Debug\netcoreapp3.1\SIS.HTTP.pdb
+C:\Users\Enes\source\repos\SIS\App\obj\Debug\netcoreapp3.1\App.csproj.CopyComplete
+C:\Users\Enes\source\repos\SIS\App\obj\Debug\netcoreapp3.1\App.dll
+C:\Users\Enes\source\repos\SIS\App\obj\Debug\netcoreapp3.1\App.pdb

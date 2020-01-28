@@ -1,0 +1,3 @@
+C:\Users\Enes\source\repos\SIS\App\obj\Debug\netcoreapp2.2\App.csprojAssemblyReference.cache
+C:\Users\Enes\source\repos\SIS\App\obj\Debug\netcoreapp2.2\App.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\SIS\App\obj\Debug\netcoreapp2.2\App.AssemblyInfo.cs
